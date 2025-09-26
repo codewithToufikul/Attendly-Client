@@ -1,0 +1,22 @@
+[
+  {
+    "_id": "c-1",
+    "subject": "Web Programming",
+    "teacherId": "u-teacher-1",
+    "students": ["u-student-1"],
+    "dayOfWeek": 5,
+    "start": "13:00",
+    "end": "13:45",
+    "room": "C-301"
+  },
+  {
+    "_id": "c-2",
+    "subject": "Data Structures",
+    "teacherId": "u-teacher-1",
+    "students": ["u-student-1"],
+    "dayOfWeek": 5,
+    "start": "09:00",
+    "end": "09:45",
+    "room": "C-302"
+  }
+]

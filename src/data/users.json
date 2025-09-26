@@ -1,0 +1,24 @@
+[
+  {
+    "_id": "u-admin-1",
+    "role": "admin",
+    "name": "Admin User",
+    "email": "admin@test.com",
+    "password": "$2b$10$O3YtK2Qe8cY6OqgH5w2fQe3VydK3Q6w3y9sJ0v7Z9H7c0B3gZ2bSi" 
+  },
+  {
+    "_id": "u-teacher-1",
+    "role": "teacher",
+    "name": "John Teacher",
+    "email": "teacher@test.com",
+    "password": "$2b$10$O3YtK2Qe8cY6OqgH5w2fQe3VydK3Q6w3y9sJ0v7Z9H7c0B3gZ2bSi"
+  },
+  {
+    "_id": "u-student-1",
+    "role": "student",
+    "name": "Alice Student",
+    "roll": "CSE-190101",
+    "email": "student@test.com",
+    "password": "$2b$10$O3YtK2Qe8cY6OqgH5w2fQe3VydK3Q6w3y9sJ0v7Z9H7c0B3gZ2bSi"
+  }
+]
